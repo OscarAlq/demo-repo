@@ -1,1 +1,1 @@
-console.log('hola mundo en la nueva ruta');
+console.log('hola mundo en la nueva ruta 2');

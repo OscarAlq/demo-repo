@@ -1,1 +1,1 @@
-console.log ('validaciones');
+console.log ('validaciones dentro del path');
